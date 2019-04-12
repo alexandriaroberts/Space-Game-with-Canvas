@@ -1,0 +1,11 @@
+{
+  "name": "space-game",
+  "version": "0.1.0",
+  "license": "Unlicense",
+  "scripts": {
+    "dev": "parcel game.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
